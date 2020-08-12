@@ -3,6 +3,8 @@ Creating word clouds for various twitter users and separate word clouds for thei
 
 The twitter data was gathered using a tool called Vicinitas which can be accessed at: https://www.vicinitas.io/free-tools/download-user-tweets
 
+This tool was able to gather the last 3,200 tweets from the given twitter user in a downloadable file I saved in the tweets folder.
+
 Once this data was gathered, pictures for each of the subjects I wanted to compare were found and downloaded into a folder called masks. These will be used as outlines for the word clouds.
 
 The tweets were then run through a code to generate word clouds with a American color theme and the outlines previously mentioned were used for each user.
