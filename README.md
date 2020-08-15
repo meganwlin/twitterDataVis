@@ -1,4 +1,6 @@
 # twitterDataVis
+This project won the UIUC HackThis 2020 Data Science Challenge!
+
 Creating word clouds for various twitter users and separate word clouds for their tweets about specific topics.
 
 The twitter data was gathered using a tool called Vicinitas which can be accessed at: https://www.vicinitas.io/free-tools/download-user-tweets
